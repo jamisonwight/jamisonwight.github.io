@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.73a2859bc85e3bd2f9dd5ef62198fe9c.js"
+  "/precache-manifest.7cc45b334b6417e41b238922f9acf10c.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "wine-talks"});
